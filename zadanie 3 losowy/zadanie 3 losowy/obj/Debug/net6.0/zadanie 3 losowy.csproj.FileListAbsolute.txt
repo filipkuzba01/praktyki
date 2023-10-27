@@ -1,0 +1,14 @@
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\bin\Debug\net6.0\zadanie 3 losowy.exe
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\bin\Debug\net6.0\zadanie 3 losowy.deps.json
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\bin\Debug\net6.0\zadanie 3 losowy.runtimeconfig.json
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\bin\Debug\net6.0\zadanie 3 losowy.dll
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\bin\Debug\net6.0\zadanie 3 losowy.pdb
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\obj\Debug\net6.0\zadanie 3 losowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\obj\Debug\net6.0\zadanie 3 losowy.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\obj\Debug\net6.0\zadanie 3 losowy.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\obj\Debug\net6.0\zadanie 3 losowy.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\obj\Debug\net6.0\zadanie 3 losowy.dll
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\obj\Debug\net6.0\refint\zadanie 3 losowy.dll
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\obj\Debug\net6.0\zadanie 3 losowy.pdb
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\obj\Debug\net6.0\zadanie 3 losowy.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Pulpit\praktyki\zadanie 3 losowy\zadanie 3 losowy\obj\Debug\net6.0\ref\zadanie 3 losowy.dll
